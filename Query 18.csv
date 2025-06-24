@@ -1,0 +1,7 @@
+department,activity_type,Total_activities
+"Computer Science",Assignment,1
+"Computer Science",Quiz,1
+"Electrical Engineering",Lab,1
+"Mechanical Engineering",Project,1
+Biotechnology,Presentation,1
+"Civil Engineering",NULL,0

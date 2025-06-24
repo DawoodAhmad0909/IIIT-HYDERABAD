@@ -1,0 +1,8 @@
+student_id,first_name,last_name,email,enrollment_date,department,academic_year
+105,Ishaan,Gupta,ishaan.gupta@example.edu,2021-06-10,"Computer Science",3
+107,Vivaan,Malhotra,vivaan.malhotra@example.edu,2021-06-10,"Electrical Engineering",3
+103,Rohan,Kumar,rohan.kumar@example.edu,2022-06-15,"Mechanical Engineering",2
+104,Ananya,Singh,ananya.singh@example.edu,2022-06-15,Biotechnology,2
+101,Aarav,Sharma,aarav.sharma@example.edu,2023-06-01,"Computer Science",1
+102,Diya,Patel,diya.patel@example.edu,2023-06-01,"Electrical Engineering",1
+106,Priya,Joshi,priya.joshi@example.edu,2023-06-01,"Civil Engineering",1

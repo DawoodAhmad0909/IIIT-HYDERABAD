@@ -1,0 +1,8 @@
+student_id,Student_name,Total_usage,AVG(se.participation_score),Average_Participation_Score,performance_category
+101,"Aarav Sharma",4,51.5000,51.50,NULL
+102,"Diya Patel",0,45.0000,45.00,"No library usage"
+103,"Rohan Kumar",1,NULL,NULL,NULL
+104,"Ananya Singh",1,28.0000,28.00,"Bad performance"
+105,"Ishaan Gupta",0,90.0000,90.00,"No library usage"
+106,"Priya Joshi",0,NULL,NULL,"No library usage"
+107,"Vivaan Malhotra",1,40.0000,40.00,"Bad performance"

@@ -1,0 +1,2 @@
+student_id,first_name,last_name,email,enrollment_date,department,academic_year,Total_Courses_Enrolled,Total_Participations,Average_Participation_Score,Overall_Average_Score
+103,Rohan,Kumar,rohan.kumar@example.edu,2022-06-15,"Mechanical Engineering",2,2,2,NULL,51.00
