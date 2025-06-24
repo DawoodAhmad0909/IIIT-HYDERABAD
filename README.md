@@ -298,5 +298,5 @@ WHERE s.enrollment_date>se.submission_date;
 SELECT * FROM Students 
 WHERE email IS NULL;
 ```
-Conclusion
+## Conclusion
 The IIIT_HYD_db database provides a well-structured foundation for academic administration and analytics. By integrating various dimensions of academic life—from enrollment to performance and resource usage—it enables institutions to make informed decisions, improve student engagement, and ensure academic quality.
